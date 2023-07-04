@@ -131,7 +131,7 @@ LOGIN_REDIRECT_URL = 'blog-index'
 
 LOGIN_URL = 'users-login'
 
-STATIC_URL = 'static/'
+STATIC_URL = '/postscribers/static/'
 
 MEDIA_URL = '/media/'
 
